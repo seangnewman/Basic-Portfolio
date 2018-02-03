@@ -170,12 +170,12 @@ main{
  
 aside{
     margin: 1rem 0 0 1rem;
-    width:16.875rem;
+    width:16.750rem;
     height:8.425rem;
     border:.1rem solid #FFFFFF;
       background-color: #ffffff;
     float:left;
-    max-width:270px;
+    
     
 }
 #connectWithMeContainer {
